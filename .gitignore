@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.mp4
+snapshots/
+videos/
+anpr_records.csv
+*.log
+
+main1.py
